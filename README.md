@@ -5,7 +5,7 @@ I like to develop things. If an idea pops into my head, chances are I'll code.
 
 ### My main tech stack is:
 
-* React, Expressjs and SQL for web development
+* React, ExpressJS and SQL for web development
 
 * C++ for complex algorithm 
 
